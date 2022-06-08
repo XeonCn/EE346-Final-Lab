@@ -33,7 +33,7 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
 4. Run the lane follower  
 
-        cd ~/catkin_ws/src/EE346-Lab6-Lane-following-Navigation/src  
+        cd ~/catkin_ws/src/EE346-Lab7-Competition/src  
 
         python lane_following_part3b.py  
 
