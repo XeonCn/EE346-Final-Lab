@@ -31,7 +31,7 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
         rosrun rqt_reconfigure rqt_reconfigure  
 
-4. Run the lane follower  
+4. Run the program  
 
         cd ~/catkin_ws/src/EE346-Lab7-Competition/src  
 
