@@ -35,6 +35,6 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
         cd ~/catkin_ws/src/EE346-Lab6-Lane-following-Navigation/src  
 
-        python lane_following_part3.py  
+        python lane_following_part3b.py  
 
 * Path: racetrack + point2, repeat 4 times in 5 minutes
