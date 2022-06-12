@@ -1,4 +1,4 @@
-# EE346-Lab7-Competition
+# EE346-Final-Lab
 ##  Part I Camera Calibration
 
 Intrinsic matrix Camera Calibration YAML is in calibration folder
@@ -33,7 +33,7 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
 4. Run the program  
 
-        cd ~/catkin_ws/src/EE346-Lab7-Competition/src  
+        cd ~/catkin_ws/src/EE346-Final-Lab/src  
 
         python lane_following_part3b.py  
 
