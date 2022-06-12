@@ -37,4 +37,5 @@ Intrinsic matrix Camera Calibration YAML is in calibration folder
 
         python lane_following_part3b.py  
 
-* Path: P1 → racetrack → P2 → racetrack → P1, repeat 4 times in 5 minutes
+* Path: P1 → racetrack → P2 → racetrack → P1, repeat up to 4 times in 5 minutes
+* Video Demo: https://www.bilibili.com/video/BV1zF411F77z/
